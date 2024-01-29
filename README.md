@@ -2,7 +2,7 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 # Artigo de contribuição
@@ -29,9 +29,9 @@ Se você estiver contribuindo com uma pequena atualização:
 1. Na mensagem &quot;Este conteúdo foi útil?&quot;, banner exibido na parte inferior da janela do navegador, clique em **Opções de feedback detalhadas**.
 1. Clique em **Sugerir uma edição** e envie uma solicitação de pull (PR) com suas alterações na interface do usuário do GitHub.
 
-   Consulte o [Guia do colaborador de documentos da Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
+   Consulte o [Manual do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
 
-Pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório são cobertos pelos termos de uso da Adobe.
+As pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório estão cobertos pelos termos de uso da Adobe.
 
 ### Grandes alterações ou novos tópicos da comunidade
 
@@ -43,7 +43,7 @@ Se fizer parte da comunidade Adobe e quiser criar um novo tópico ou enviar gran
 
 Colaboradores da comunidade podem usar a interface do GitHub para edição básica ou bifurcar o repositório para fazer contribuições importantes.
 
-Consulte o [Manual do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obter mais detalhes.
+Consulte o [Manual do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais detalhes.
 
 ## Colaboradores internos
 
@@ -53,12 +53,12 @@ Se você for um autor técnico, gerente de programa ou desenvolvedor da equipe d
 
 Todos os artigos neste repositório usam GitHub-flavored Markdown. Se não estiver familiarizado com o Markdown, consulte:
 
-* [Noções básicas de markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [Noções básicas de markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [Cheatsheet de markdown para impressão](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Etiquetas
 
-No repositório público, os rótulos automatizados são atribuídos para extrair solicitações para nos ajudar a gerenciar o fluxo de trabalho da solicitação de pull e para ajudar você a saber o que está acontecendo com sua solicitação de pull:
+No repositório público, as etiquetas automatizadas são atribuídas a pull requests para nos ajudar a gerenciar o fluxo de trabalho de pull requests e informar você sobre o status de seu pull request:
 
 * **Alteração enviada para o autor**: o autor foi notificado do pull request pendente.
 * **Pronto para mesclar**: pronto para análise pela nossa equipe de análise de pull requests.

@@ -2,7 +2,7 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Código de conduta da Adobe
@@ -23,44 +23,53 @@ Veja alguns exemplos de comportamento que contribuem para criar um ambiente posi
 
 * Uso de linguagem acolhedora e inclusiva
 * Respeito pelos diferentes pontos de vista e experiências
-* Aceitação pacífica de críticas construtivas
+* Aceitação de críticas construtivas
 * Foco no que é melhor para a comunidade
-* Demonstração de empatia para com os outros membros da comunidade
+* Demonstrar empatia com outros membros da comunidade
 
-Exemplos de comportamento inaceitável dos participantes incluem:
+Os exemplos de comportamentos inaceitáveis dos participantes incluem:
 
-* O uso de linguagem ou imagens sexualizadas e atenção ou investidas sexuais
-indesejadas
+* O uso de linguagem ou imagens sexualizadas e a atenção ou avanços sexuais sexual indesejados
 * Trolar, insultos/comentários depreciativos e ataques pessoais ou políticos
 * Assédio público ou privado
-* Publicação de informações privadas de outras pessoas, como endereço físico ou eletrônico,
-sem permissão explícita
-* Outros comportamentos que poderiam ser considerados inadequados no contexto profissional
+* Publicar informações privadas de outras pessoas, como endereços físicos ou eletrônicos, sem permissão explícita
+* Outros comportamentos que poderiam razoavelmente ser considerados inadequados no contexto profissional
 
 ## Nossas responsabilidades
 
-Os responsáveis pela manutenção dos projetos são responsáveis por esclarecer as normas de comportamento aceitável e devem tomar medidas corretivas adequadas e igualitárias em resposta a qualquer caso de comportamento inaceitável.
+Os responsáveis pela manutenção dos projetos são responsáveis por esclarecer
+as normas de comportamento aceitável e devem tomar medidas corretivas adequadas
+e justas em resposta a quaisquer casos de comportamento inaceitável.
 
-Os mantenedores dos projetos têm o direito e a responsabilidade de remover, editar ou
-rejeitar comentários, práticas, códigos, edições de publicações, assuntos e outras contribuições
-que não estejam alinhados a este código de conduta. Eles têm o direito e a responsabilidade de proibir temporária ou
-permanentemente qualquer colaborador por conta de outros tipos de comportamento que considerem impróprios,
-ameaçadores, ofensivos ou prejudiciais.
+Os responsáveis pela manutenção de projetos têm o direito e a responsabilidade
+de remover, editar, rejeitar comentários, confirmações, códigos, edições da wiki,
+problemas e outras contribuições que não estejam alinhadas a este Código de Conduta,
+ou de proibir temporária ou permanentemente qualquer colaborador por outros comportamentos
+que sejam considerados inadequados, ameaçadores, ofensivos ou prejudiciais.
 
 ## Escopo
 
-Este Código de conduta se aplica tanto aos espaços do projeto quanto aos espaços públicos quando um indivíduo representa o projeto ou sua comunidade. Exemplos de representação de um projeto ou comunidade englobam o uso de um endereço de email oficial do projeto, postagem por meio de uma conta oficial de redes sociais ou atuação como representante designado em um evento online ou offline. A representação de um projeto pode ser
-definida e esclarecida pelos responsáveis pela manutenção do projeto.
+Este Código de Conduta aplica-se tanto em espaços de projeto como em espaços públicos
+quando um indivíduo representa o projeto ou sua comunidade. Exemplos de
+representação de um projeto ou comunidade incluem o uso de um endereço de email oficial
+do projeto, a postagem por meio de uma conta oficial de redes sociais ou a atuação como
+representante nomeado em um evento online ou offline. A representação de um projeto pode ser definida
+e esclarecida pelos responsáveis pela manutenção do projeto.
 
 ## Aplicação
 
-Comportamento abusivo, assédio ou qualquer conduta inaceitável podem ser informados à equipe do projeto em Grp-opensourceoffice@adobe.com. Todas as denúncias serão analisadas e investigadas e resultarão em uma resposta considerada necessária e adequada às circunstâncias. A equipe do projeto é
-obrigada a manter sigilo em relação ao relator de um incidente.
-Podem ser publicados separadamente pormenores adicionais sobre políticas específicas de execução.
+Instâncias de comportamento abusivo, assédio ou de outra forma inaceitável podem ser
+relatadas ao entrar em contato com a equipe do projeto em Grp-opensourceoffice@adobe.com. Todas
+as reclamações serão analisadas e investigadas, e resultarão numa resposta que
+será considerada necessária e adequada às circunstâncias. A equipe do projeto
+é obrigada a manter a confidencialidade em relação ao denunciante de um incidente.
+Mais detalhes sobre as políticas de execução específicas podem ser publicados separadamente.
 
-Os mantenedores do projeto que não seguirem ou aplicarem o Código de conduta de boa fé podem enfrentar repercussões temporárias ou permanentes, determinadas por outros membros da liderança do projeto.
+Os responsáveis pela manutenção que não seguem ou aplicam o Código de conduta de boa fé
+podem enfrentar repercussões temporárias ou permanentes, conforme determinadas por outros
+membros da liderança do projeto.
 
 ## Atribuição
 
-Este código de conduta foi adaptado do [Contributor Covenant](https://contributor-covenant.org), versão 1.4,
-disponível em [https://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct.html)
+Este código de conduta é adaptado do [Contrato do colaborador](https://contributor-covenant.org), versão 1.4,
+disponível em [https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct.html)
